@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+}
+.header{
+    border-style: double;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    text-align: center;
+}
+.container{
+    margin-left: 20vh;
+    margin-top: 5vh;
+    margin-right: 120vh;
+}
+label, input{
+    display: inline-block;
+}
+label{
+    margin-bottom: 3vh;
+}
+input{
+    float: right ;
+}
+.gender{
+    margin-left: 20vh;
+    margin-right: 140vh;
+    display: inline-flex;
+}
+.dob{
+    margin-left: 20vh;
+    display: inline-flex;
+    margin-right: 100vh;
+}
+.address{
+    margin-left: 20vh;
+    margin-right: 106vh;
+    margin-top: 5vh;
+}
+.bloodgroup{
+    margin-left: 20vh;
+    margin-right: 120vh;
+}
+.dept{
+    margin-left: 20vh;
+    margin-right: 140vh;
+    display: inline-flex;
+}
+.Course{
+    margin-left: 20vh;
+    margin-right: 100vh;
+    display: inline-flex;
+}
+.photo{
+    margin-left: 20vh;
+    margin-right: 106vh;
+}
+
+
